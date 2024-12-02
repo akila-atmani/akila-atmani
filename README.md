@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--
-**akila-atmani/akila-atmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="left">My name is Akila  and I live in Cannes.</h2>
 
-- 🔭 Je suis actuellement en formation Bachelor IT à l'école 'La Plateforme'. Après avoir obtenu mon master en biologie, j'ai décidé de me reconvertir dans l'informatique, plus précisément dans le développement web.
-- 🌱 Mon but est de devenir devloppeur Web a la fin de ma formation avec un bon bagages informatique.
-- 👯 je suis a la recherche de mon alternance 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h3 align="left">Being a person who loves "challenges" and "novelty" after doing a master's degree in biology I decided to retrain in web development and it changed my life that I feel fulfilled.</h3>
+
+###
+
+<p align="left">✨ Skills:  I am a team work and am known for my precision analyze, exploit, structure data.<br><br>📚 I'm currently learning how to become a web developer...<br><br>🎯trumps: <br>-Listening.<br>-Organize your work according to<br>Priorities and objectives.<br>-Adapting to change.<br>-Working as a team.<br>-Demonstrate autonomy.<br>-Curiosity and creativity.<br><br>🎲 hobies: cook, travels.</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
