@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Skills:  I am a team work and am known for my precision analyze, exploit, structure data.<br><br>📚 I'm currently learning how to become a web developer...<br><br>🎯trumps: <br>-Listening.<br>-Organize your work according to<br>Priorities and objectives.<br>-Adapting to change.<br>-Working as a team.<br>-Demonstrate autonomy.<br>-Curiosity and creativity.<br><br>🎲 hobies: cook, travels.</p>
+<p align="left">✨I am a team work and am known for my precision analyze, exploit, structure data.<br><br>📚 I'm currently learning how to become a web developer...<br><br>🎯skills: <br>-Listening.<br>-Organize your work according to<br>Priorities and objectives.<br>-Adapting to change.<br>-Working as a team.<br>-Demonstrate autonomy.<br>-Curiosity and creativity.<br><br>🎲 hobies: cook, travels.</p>
 
 ###
 
@@ -39,6 +39,16 @@
 
 <p align="left">Hello World!!</p>
 
+###
 
+<p align="left">Hello World!!</p>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
